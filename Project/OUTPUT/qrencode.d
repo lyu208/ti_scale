@@ -1,0 +1,14 @@
+.\output\qrencode.o: ..\USER\QRENCODE\qrencode.c
+.\output\qrencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\qrencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\qrencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\qrencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\output\qrencode.o: ..\USER\QRENCODE\qrencode.h
+.\output\qrencode.o: ..\USER\QRENCODE\qrspec.h
+.\output\qrencode.o: ..\USER\QRENCODE\mqrspec.h
+.\output\qrencode.o: ..\USER\QRENCODE\bitstream.h
+.\output\qrencode.o: ..\USER\QRENCODE\qrinput.h
+.\output\qrencode.o: ..\USER\QRENCODE\rscode.h
+.\output\qrencode.o: ..\USER\QRENCODE\split.h
+.\output\qrencode.o: ..\USER\QRENCODE\mask.h
+.\output\qrencode.o: ..\USER\QRENCODE\mmask.h

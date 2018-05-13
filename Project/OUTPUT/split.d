@@ -1,0 +1,9 @@
+.\output\split.o: ..\USER\QRENCODE\split.c
+.\output\split.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\split.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\split.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\output\split.o: ..\USER\QRENCODE\qrencode.h
+.\output\split.o: ..\USER\QRENCODE\qrinput.h
+.\output\split.o: ..\USER\QRENCODE\bitstream.h
+.\output\split.o: ..\USER\QRENCODE\qrspec.h
+.\output\split.o: ..\USER\QRENCODE\split.h

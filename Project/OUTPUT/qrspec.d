@@ -1,0 +1,9 @@
+.\output\qrspec.o: ..\USER\QRENCODE\qrspec.c
+.\output\qrspec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\qrspec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\qrspec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\qrspec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\output\qrspec.o: ..\USER\QRENCODE\qrspec.h
+.\output\qrspec.o: ..\USER\QRENCODE\qrencode.h
+.\output\qrspec.o: ..\USER\QRENCODE\qrinput.h
+.\output\qrspec.o: ..\USER\QRENCODE\bitstream.h

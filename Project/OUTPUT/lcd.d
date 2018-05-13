@@ -3,7 +3,7 @@
 .\output\lcd.o: ..\USER\sys.h
 .\output\lcd.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
 .\output\lcd.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
-.\output\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\lcd.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdint.h
 .\output\lcd.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
 .\output\lcd.o: ..\USER\stm32f10x_conf.h
 .\output\lcd.o: ..\Libraries\inc\stm32f10x_adc.h
@@ -21,9 +21,9 @@
 .\output\lcd.o: ..\Libraries\inc\stm32f10x_tim.h
 .\output\lcd.o: ..\Libraries\inc\stm32f10x_usart.h
 .\output\lcd.o: ..\Libraries\inc\misc.h
-.\output\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\lcd.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdlib.h
 .\output\lcd.o: ..\USER\LCD\font.h
 .\output\lcd.o: ..\USER\tools.h
-.\output\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-.\output\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\lcd.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\lcd.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\string.h
 .\output\lcd.o: ..\USER\delay.h

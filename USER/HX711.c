@@ -14,7 +14,7 @@ u8 Flag_Error = 0;
 //当发现测试出来的重量偏大时，增加该数值。
 //如果测试出来的重量偏小时，减小改数值。
 //该值可以为小数
-#define GapValue 430
+#define GapValue 198
 
 
 void HX711_Config(void)

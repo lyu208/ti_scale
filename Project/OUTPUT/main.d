@@ -2,7 +2,7 @@
 .\output\main.o: ..\USER\includes.h
 .\output\main.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
 .\output\main.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
-.\output\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\main.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdint.h
 .\output\main.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
 .\output\main.o: ..\USER\stm32f10x_conf.h
 .\output\main.o: ..\Libraries\inc\stm32f10x_adc.h
@@ -24,12 +24,12 @@
 .\output\main.o: ..\USER\sys.h
 .\output\main.o: ..\USER\delay.h
 .\output\main.o: ..\USER\tools.h
-.\output\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-.\output\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\main.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\main.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\string.h
 .\output\main.o: ..\USER\pcf8563.h
 .\output\main.o: ..\USER\IIC.h
 .\output\main.o: ..\USER\gsm.h
 .\output\main.o: ..\USER\HX711.h
 .\output\main.o: ..\USER\LCD\lcd.h
-.\output\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\main.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdlib.h
 .\output\main.o: ..\USER\sim900a.h

@@ -10,8 +10,8 @@ uint8_t     recvDataCnt = 0; //串口中断，接受数据计数
 char     GSM_recvBuff[253] = {0}; //用于接受GSM模块发送回来的数据
 
 
-char   GPRS_ServerIp[16] = {"121.250.123.38"}; //长度一定要为16 还有一个  /
-char   GPRS_ServerPort[5] = {"8086"};
+char   GPRS_ServerIp[16] = {"115.159.50.191"}; //长度一定要为16 还有一个  /
+char   GPRS_ServerPort[5] = {"2347"};
 
 
 

@@ -50,7 +50,7 @@ uchar heartbeatService = 0;
 
 const uint8_t codetest[] = //微信名片，可以去百度上搜索二维码名片 查看
 {
-    "URL:http:www.baidu.com"
+    "https://QR.ALIPAY.COM/FKX032960FOJUCUJWUZM6C"
 //    "独睡无适处，静夜起相思。\r\n凭栏相望远，念我美娇妻。\r\n "
 //    "何当拥卿巫山雨云共佳期，却话待我有房手里存款几个亿！\r\n"
 //    "                    ——侯霄"

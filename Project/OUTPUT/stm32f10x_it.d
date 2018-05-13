@@ -2,7 +2,7 @@
 .\output\stm32f10x_it.o: ..\USER\stm32f10x_it.h
 .\output\stm32f10x_it.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
 .\output\stm32f10x_it.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
-.\output\stm32f10x_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\stm32f10x_it.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdint.h
 .\output\stm32f10x_it.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
 .\output\stm32f10x_it.o: ..\USER\stm32f10x_conf.h
 .\output\stm32f10x_it.o: ..\Libraries\inc\stm32f10x_adc.h
@@ -20,10 +20,10 @@
 .\output\stm32f10x_it.o: ..\Libraries\inc\stm32f10x_tim.h
 .\output\stm32f10x_it.o: ..\Libraries\inc\stm32f10x_usart.h
 .\output\stm32f10x_it.o: ..\Libraries\inc\misc.h
-.\output\stm32f10x_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\stm32f10x_it.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdio.h
 .\output\stm32f10x_it.o: ..\USER\user.h
 .\output\stm32f10x_it.o: ..\USER\sys.h
 .\output\stm32f10x_it.o: ..\USER\tools.h
-.\output\stm32f10x_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\stm32f10x_it.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\string.h
 .\output\stm32f10x_it.o: ..\USER\HX711.h
 .\output\stm32f10x_it.o: ..\USER\sim900a.h

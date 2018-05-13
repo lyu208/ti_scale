@@ -1,8 +1,8 @@
 .\output\qrencode.o: ..\USER\QRENCODE\qrencode.c
-.\output\qrencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-.\output\qrencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-.\output\qrencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\output\qrencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\output\qrencode.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\qrencode.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\qrencode.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\string.h
+.\output\qrencode.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\errno.h
 .\output\qrencode.o: ..\USER\QRENCODE\qrencode.h
 .\output\qrencode.o: ..\USER\QRENCODE\qrspec.h
 .\output\qrencode.o: ..\USER\QRENCODE\mqrspec.h

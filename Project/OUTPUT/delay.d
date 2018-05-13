@@ -2,7 +2,7 @@
 .\output\delay.o: ..\USER\delay.h
 .\output\delay.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
 .\output\delay.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
-.\output\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\delay.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdint.h
 .\output\delay.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
 .\output\delay.o: ..\USER\stm32f10x_conf.h
 .\output\delay.o: ..\Libraries\inc\stm32f10x_adc.h

@@ -3,7 +3,7 @@
 <title>Static Call Graph - [.\OUTPUT\MdkPro.axf]</title></head>
 <body><HR>
 <H1>Static Call Graph for image .\OUTPUT\MdkPro.axf</H1><HR>
-<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 5050106: Last Updated: Fri Apr 27 16:14:20 2018
+<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 5050106: Last Updated: Sun May 13 20:03:20 2018
 <BR><P>
 <H3>Maximum Stack Usage =        272 bytes + Unknown(Cycles, Untraceable Function Pointers)</H3><H3>
 Call chain for Maximum Stack Depth:</H3>
@@ -191,7 +191,7 @@ Global Symbols
 </UL>
 <BR>[Address Reference Count : 1]<UL><LI> startup_stm32f10x_hd.o(RESET)
 </UL>
-<P><STRONG><a name="[28]"></a>TIM4_IRQHandler</STRONG> (Thumb, 150 bytes, Stack size 8 bytes, stm32f10x_it.o(.text))
+<P><STRONG><a name="[28]"></a>TIM4_IRQHandler</STRONG> (Thumb, 146 bytes, Stack size 8 bytes, stm32f10x_it.o(.text))
 <BR><BR>[Stack]<UL><LI>Max Depth = 20<LI>Call Chain = TIM4_IRQHandler &rArr; TIM_GetITStatus
 </UL>
 <BR>[Calls]<UL><LI><a href="#[5b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TIM_GetITStatus
@@ -277,11 +277,11 @@ Global Symbols
 <BR><BR>[Called By]<UL><LI><a href="#[46]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
 </UL>
 
-<P><STRONG><a name="[5d]"></a>KeyPadScan</STRONG> (Thumb, 786 bytes, Stack size 0 bytes, user.o(.text))
+<P><STRONG><a name="[5d]"></a>KeyPadScan</STRONG> (Thumb, 770 bytes, Stack size 0 bytes, user.o(.text))
 <BR><BR>[Called By]<UL><LI><a href="#[28]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TIM4_IRQHandler
 </UL>
 
-<P><STRONG><a name="[54]"></a>KeyPadService</STRONG> (Thumb, 836 bytes, Stack size 48 bytes, user.o(.text))
+<P><STRONG><a name="[54]"></a>KeyPadService</STRONG> (Thumb, 672 bytes, Stack size 48 bytes, user.o(.text))
 <BR><BR>[Stack]<UL><LI>Max Depth = 272<LI>Call Chain = KeyPadService &rArr; atof &rArr; __strtod_int &rArr; _local_sscanf &rArr; _scanf_real
 </UL>
 <BR>[Calls]<UL><LI><a href="#[75]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_i2d
@@ -298,7 +298,7 @@ Global Symbols
 <BR>[Called By]<UL><LI><a href="#[46]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
 </UL>
 
-<P><STRONG><a name="[52]"></a>GetWeightService</STRONG> (Thumb, 98 bytes, Stack size 8 bytes, user.o(.text))
+<P><STRONG><a name="[52]"></a>GetWeightService</STRONG> (Thumb, 234 bytes, Stack size 8 bytes, user.o(.text))
 <BR><BR>[Stack]<UL><LI>Max Depth = 116<LI>Call Chain = GetWeightService &rArr; LCD_ShowNum &rArr; LCD_ShowChar &rArr; LCD_Fast_DrawPoint
 </UL>
 <BR>[Calls]<UL><LI><a href="#[7c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;NumLength
@@ -309,7 +309,7 @@ Global Symbols
 <BR>[Called By]<UL><LI><a href="#[46]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
 </UL>
 
-<P><STRONG><a name="[55]"></a>GPRS_Service</STRONG> (Thumb, 202 bytes, Stack size 8 bytes, user.o(.text))
+<P><STRONG><a name="[55]"></a>GPRS_Service</STRONG> (Thumb, 200 bytes, Stack size 8 bytes, user.o(.text))
 <BR><BR>[Stack]<UL><LI>Max Depth = 52<LI>Call Chain = GPRS_Service &rArr; Send_AT_Cmd &rArr; FindChar &rArr; strstr
 </UL>
 <BR>[Calls]<UL><LI><a href="#[80]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;USART_SendData

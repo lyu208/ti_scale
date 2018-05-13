@@ -2,7 +2,7 @@
 .\output\peripheral.o: ..\USER\peripheral.h
 .\output\peripheral.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
 .\output\peripheral.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
-.\output\peripheral.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\peripheral.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdint.h
 .\output\peripheral.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
 .\output\peripheral.o: ..\USER\stm32f10x_conf.h
 .\output\peripheral.o: ..\Libraries\inc\stm32f10x_adc.h

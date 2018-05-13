@@ -1,9 +1,9 @@
 Dependencies for Project 'MdkPro', Target 'MdkPro': (DO NOT MODIFY !)
-F (..\USER\main.c)(0x5ACCB138)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
+F (..\USER\main.c)(0x5ACCB138)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
 I (..\USER\includes.h)(0x591C1169)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -24,20 +24,20 @@ I (..\USER\user.h)(0x5ACCADA2)
 I (..\USER\sys.h)(0x572AB444)
 I (..\USER\delay.h)(0x554DC514)
 I (..\USER\tools.h)(0x591A47DB)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
 I (..\USER\pcf8563.h)(0x59152474)
 I (..\USER\IIC.h)(0x5736C9D6)
 I (..\USER\gsm.h)(0x5758F18C)
 I (..\USER\HX711.h)(0x591BB236)
 I (..\USER\LCD\lcd.h)(0x591680FD)
-I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdlib.h)(0x5475F300)
 I (..\USER\sim900a.h)(0x591C1231)
-F (..\USER\stm32f10x_it.c)(0x591C2015)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_it.o --omf_browse .\output\stm32f10x_it.crf --depend .\output\stm32f10x_it.d)
+F (..\USER\stm32f10x_it.c)(0x591C2015)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_it.o --omf_browse .\output\stm32f10x_it.crf --depend .\output\stm32f10x_it.d)
 I (..\USER\stm32f10x_it.h)(0x50499F18)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -54,18 +54,18 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdio.h)(0x5475F300)
 I (..\USER\user.h)(0x5ACCADA2)
 I (..\USER\sys.h)(0x572AB444)
 I (..\USER\tools.h)(0x591A47DB)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
 I (..\USER\HX711.h)(0x591BB236)
 I (..\USER\sim900a.h)(0x591C1231)
-F (..\USER\delay.c)(0x57284390)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\delay.o --omf_browse .\output\delay.crf --depend .\output\delay.d)
+F (..\USER\delay.c)(0x57284390)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\delay.o --omf_browse .\output\delay.crf --depend .\output\delay.d)
 I (..\USER\delay.h)(0x554DC514)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -82,11 +82,11 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\USER\user.c)(0x591C2BCE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\user.o --omf_browse .\output\user.crf --depend .\output\user.d)
+F (..\USER\user.c)(0x5AF82930)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\user.o --omf_browse .\output\user.crf --depend .\output\user.d)
 I (..\USER\user.h)(0x5ACCADA2)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -106,20 +106,20 @@ I (..\Libraries\inc\misc.h)(0x4D783BB4)
 I (..\USER\sys.h)(0x572AB444)
 I (..\USER\delay.h)(0x554DC514)
 I (..\USER\tools.h)(0x591A47DB)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
 I (..\USER\peripheral.h)(0x591BCE5D)
 I (..\USER\LCD\lcd.h)(0x591680FD)
-I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdlib.h)(0x5475F300)
 I (..\USER\QRENCODE\qr_encode.h)(0x5916816C)
-I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdbool.h)(0x5475F300)
 I (..\USER\HX711.h)(0x591BB236)
 I (..\USER\sim900a.h)(0x591C1231)
-F (..\USER\peripheral.c)(0x591BF2ED)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\peripheral.o --omf_browse .\output\peripheral.crf --depend .\output\peripheral.d)
+F (..\USER\peripheral.c)(0x591BF2ED)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\peripheral.o --omf_browse .\output\peripheral.crf --depend .\output\peripheral.d)
 I (..\USER\peripheral.h)(0x591BCE5D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -138,11 +138,11 @@ I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
 I (..\USER\user.h)(0x5ACCADA2)
 I (..\USER\sys.h)(0x572AB444)
-F (..\USER\tools.c)(0x591BCEFD)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\tools.o --omf_browse .\output\tools.crf --depend .\output\tools.d)
+F (..\USER\tools.c)(0x591BCEFD)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\tools.o --omf_browse .\output\tools.crf --depend .\output\tools.d)
 I (..\USER\tools.h)(0x591A47DB)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -159,14 +159,14 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
-F (..\USER\LCD\lcd.c)(0x591680FD)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\lcd.o --omf_browse .\output\lcd.crf --depend .\output\lcd.d)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
+F (..\USER\LCD\lcd.c)(0x591680FD)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\lcd.o --omf_browse .\output\lcd.crf --depend .\output\lcd.d)
 I (..\USER\LCD\lcd.h)(0x591680FD)
 I (..\USER\sys.h)(0x572AB444)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -183,17 +183,17 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdlib.h)(0x5475F300)
 I (..\USER\LCD\font.h)(0x550289B6)
 I (..\USER\tools.h)(0x591A47DB)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
 I (..\USER\delay.h)(0x554DC514)
-F (..\USER\HX711.c)(0x591BB22E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\hx711.o --omf_browse .\output\hx711.crf --depend .\output\hx711.d)
+F (..\USER\HX711.c)(0x5AF8297D)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\hx711.o --omf_browse .\output\hx711.crf --depend .\output\hx711.d)
 I (..\USER\HX711.h)(0x591BB236)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -213,13 +213,13 @@ I (..\Libraries\inc\misc.h)(0x4D783BB4)
 I (..\USER\sys.h)(0x572AB444)
 I (..\USER\delay.h)(0x554DC514)
 I (..\USER\tools.h)(0x591A47DB)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
-F (..\USER\sim900a.c)(0x591C1F08)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\sim900a.o --omf_browse .\output\sim900a.crf --depend .\output\sim900a.d)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
+F (..\USER\sim900a.c)(0x5AF82930)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\sim900a.o --omf_browse .\output\sim900a.crf --depend .\output\sim900a.d)
 I (..\USER\sim900a.h)(0x591C1231)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -237,45 +237,45 @@ I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
 I (..\USER\tools.h)(0x591A47DB)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
 I (..\USER\peripheral.h)(0x591BCE5D)
 I (..\USER\user.h)(0x5ACCADA2)
 I (..\USER\sys.h)(0x572AB444)
-F (..\USER\QRENCODE\bitstream.c)(0x53D0F96C)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\bitstream.o --omf_browse .\output\bitstream.crf --depend .\output\bitstream.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
+F (..\USER\QRENCODE\bitstream.c)(0x53D0F96C)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\bitstream.o --omf_browse .\output\bitstream.crf --depend .\output\bitstream.d)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
 I (..\USER\QRENCODE\bitstream.h)(0x53D0F96C)
-F (..\USER\QRENCODE\mask.c)(0x55C8377E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\mask.o --omf_browse .\output\mask.crf --depend .\output\mask.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\limits.h)(0x5475F2FA)
-I (C:\Keil_v5\ARM\ARMCC\include\errno.h)(0x5475F300)
+F (..\USER\QRENCODE\mask.c)(0x55C8377E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\mask.o --omf_browse .\output\mask.crf --depend .\output\mask.d)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\limits.h)(0x5475F2FA)
+I (E:\keil_V5win7\ARM\ARMCC\include\errno.h)(0x5475F300)
 I (..\USER\QRENCODE\qrencode.h)(0x55D53462)
 I (..\USER\QRENCODE\qrspec.h)(0x53D0F96C)
 I (..\USER\QRENCODE\mask.h)(0x53B5F8A0)
-F (..\USER\QRENCODE\mmask.c)(0x55C8377E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\mmask.o --omf_browse .\output\mmask.crf --depend .\output\mmask.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\limits.h)(0x5475F2FA)
-I (C:\Keil_v5\ARM\ARMCC\include\errno.h)(0x5475F300)
+F (..\USER\QRENCODE\mmask.c)(0x55C8377E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\mmask.o --omf_browse .\output\mmask.crf --depend .\output\mmask.d)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\limits.h)(0x5475F2FA)
+I (E:\keil_V5win7\ARM\ARMCC\include\errno.h)(0x5475F300)
 I (..\USER\QRENCODE\qrencode.h)(0x55D53462)
 I (..\USER\QRENCODE\mqrspec.h)(0x53B5F8A0)
 I (..\USER\QRENCODE\mmask.h)(0x53B5F8A0)
-F (..\USER\QRENCODE\mqrspec.c)(0x55D54D7C)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\mqrspec.o --omf_browse .\output\mqrspec.crf --depend .\output\mqrspec.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\errno.h)(0x5475F300)
+F (..\USER\QRENCODE\mqrspec.c)(0x55D54D7C)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\mqrspec.o --omf_browse .\output\mqrspec.crf --depend .\output\mqrspec.d)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\errno.h)(0x5475F300)
 I (..\USER\QRENCODE\mqrspec.h)(0x53B5F8A0)
 I (..\USER\QRENCODE\qrencode.h)(0x55D53462)
-F (..\USER\QRENCODE\QR_Encode.c)(0x591681DE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\qr_encode.o --omf_browse .\output\qr_encode.crf --depend .\output\qr_encode.d)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
+F (..\USER\QRENCODE\QR_Encode.c)(0x591681DE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\qr_encode.o --omf_browse .\output\qr_encode.crf --depend .\output\qr_encode.d)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
 I (..\USER\QRENCODE\QR_Encode.h)(0x5916816C)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -292,12 +292,12 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
-F (..\USER\QRENCODE\qrencode.c)(0x55D684AA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\qrencode.o --omf_browse .\output\qrencode.crf --depend .\output\qrencode.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\errno.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdbool.h)(0x5475F300)
+F (..\USER\QRENCODE\qrencode.c)(0x55D684AA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\qrencode.o --omf_browse .\output\qrencode.crf --depend .\output\qrencode.d)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\errno.h)(0x5475F300)
 I (..\USER\QRENCODE\qrencode.h)(0x55D53462)
 I (..\USER\QRENCODE\qrspec.h)(0x53D0F96C)
 I (..\USER\QRENCODE\mqrspec.h)(0x53B5F8A0)
@@ -307,43 +307,43 @@ I (..\USER\QRENCODE\rscode.h)(0x53D0F96C)
 I (..\USER\QRENCODE\split.h)(0x53D0F96C)
 I (..\USER\QRENCODE\mask.h)(0x53B5F8A0)
 I (..\USER\QRENCODE\mmask.h)(0x53B5F8A0)
-F (..\USER\QRENCODE\qrinput.c)(0x55D54F4A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\qrinput.o --omf_browse .\output\qrinput.crf --depend .\output\qrinput.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\errno.h)(0x5475F300)
+F (..\USER\QRENCODE\qrinput.c)(0x55D54F4A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\qrinput.o --omf_browse .\output\qrinput.crf --depend .\output\qrinput.d)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\errno.h)(0x5475F300)
 I (..\USER\QRENCODE\qrencode.h)(0x55D53462)
 I (..\USER\QRENCODE\qrspec.h)(0x53D0F96C)
 I (..\USER\QRENCODE\mqrspec.h)(0x53B5F8A0)
 I (..\USER\QRENCODE\bitstream.h)(0x53D0F96C)
 I (..\USER\QRENCODE\qrinput.h)(0x55D52E3C)
-F (..\USER\QRENCODE\qrspec.c)(0x55D682FC)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\qrspec.o --omf_browse .\output\qrspec.crf --depend .\output\qrspec.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\errno.h)(0x5475F300)
+F (..\USER\QRENCODE\qrspec.c)(0x55D682FC)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\qrspec.o --omf_browse .\output\qrspec.crf --depend .\output\qrspec.d)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\errno.h)(0x5475F300)
 I (..\USER\QRENCODE\qrspec.h)(0x53D0F96C)
 I (..\USER\QRENCODE\qrencode.h)(0x55D53462)
 I (..\USER\QRENCODE\qrinput.h)(0x55D52E3C)
 I (..\USER\QRENCODE\bitstream.h)(0x53D0F96C)
-F (..\USER\QRENCODE\rscode.c)(0x55C97788)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\rscode.o --omf_browse .\output\rscode.crf --depend .\output\rscode.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
+F (..\USER\QRENCODE\rscode.c)(0x55C97788)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\rscode.o --omf_browse .\output\rscode.crf --depend .\output\rscode.d)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
 I (..\USER\QRENCODE\rscode.h)(0x53D0F96C)
-F (..\USER\QRENCODE\split.c)(0x55D544B8)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\split.o --omf_browse .\output\split.crf --depend .\output\split.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
-I (C:\Keil_v5\ARM\ARMCC\include\errno.h)(0x5475F300)
+F (..\USER\QRENCODE\split.c)(0x55D544B8)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\split.o --omf_browse .\output\split.crf --depend .\output\split.d)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\string.h)(0x5475F300)
+I (E:\keil_V5win7\ARM\ARMCC\include\errno.h)(0x5475F300)
 I (..\USER\QRENCODE\qrencode.h)(0x55D53462)
 I (..\USER\QRENCODE\qrinput.h)(0x55D52E3C)
 I (..\USER\QRENCODE\bitstream.h)(0x53D0F96C)
 I (..\USER\QRENCODE\qrspec.h)(0x53D0F96C)
 I (..\USER\QRENCODE\split.h)(0x53D0F96C)
-F (..\Libraries\src\misc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\misc.o --omf_browse .\output\misc.crf --depend .\output\misc.d)
+F (..\Libraries\src\misc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\misc.o --omf_browse .\output\misc.crf --depend .\output\misc.d)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -359,11 +359,11 @@ I (..\Libraries\inc\stm32f10x_rcc.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
-F (..\Libraries\src\stm32f10x_gpio.c)(0x554EBF91)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_gpio.o --omf_browse .\output\stm32f10x_gpio.crf --depend .\output\stm32f10x_gpio.d)
+F (..\Libraries\src\stm32f10x_gpio.c)(0x554EBF91)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_gpio.o --omf_browse .\output\stm32f10x_gpio.crf --depend .\output\stm32f10x_gpio.d)
 I (..\Libraries\inc\stm32f10x_gpio.h)(0x57380EF5)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -379,11 +379,11 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\Libraries\src\stm32f10x_rcc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_rcc.o --omf_browse .\output\stm32f10x_rcc.crf --depend .\output\stm32f10x_rcc.d)
+F (..\Libraries\src\stm32f10x_rcc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_rcc.o --omf_browse .\output\stm32f10x_rcc.crf --depend .\output\stm32f10x_rcc.d)
 I (..\Libraries\inc\stm32f10x_rcc.h)(0x4D783BB4)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -399,11 +399,11 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\Libraries\src\stm32f10x_usart.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_usart.o --omf_browse .\output\stm32f10x_usart.crf --depend .\output\stm32f10x_usart.d)
+F (..\Libraries\src\stm32f10x_usart.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_usart.o --omf_browse .\output\stm32f10x_usart.crf --depend .\output\stm32f10x_usart.d)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -419,11 +419,11 @@ I (..\Libraries\inc\stm32f10x_rcc.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\Libraries\src\stm32f10x_exti.c)(0x573ADBD3)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_exti.o --omf_browse .\output\stm32f10x_exti.crf --depend .\output\stm32f10x_exti.d)
+F (..\Libraries\src\stm32f10x_exti.c)(0x573ADBD3)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_exti.o --omf_browse .\output\stm32f10x_exti.crf --depend .\output\stm32f10x_exti.d)
 I (..\Libraries\inc\stm32f10x_exti.h)(0x4D783BB4)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -439,11 +439,11 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\Libraries\src\stm32f10x_tim.c)(0x5551534E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_tim.o --omf_browse .\output\stm32f10x_tim.crf --depend .\output\stm32f10x_tim.d)
+F (..\Libraries\src\stm32f10x_tim.c)(0x5551534E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_tim.o --omf_browse .\output\stm32f10x_tim.crf --depend .\output\stm32f10x_tim.d)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -459,11 +459,11 @@ I (..\Libraries\inc\stm32f10x_rcc.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\Libraries\src\stm32f10x_spi.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_spi.o --omf_browse .\output\stm32f10x_spi.crf --depend .\output\stm32f10x_spi.d)
+F (..\Libraries\src\stm32f10x_spi.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_spi.o --omf_browse .\output\stm32f10x_spi.crf --depend .\output\stm32f10x_spi.d)
 I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -479,11 +479,11 @@ I (..\Libraries\inc\stm32f10x_rcc.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\Libraries\src\stm32f10x_can.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_can.o --omf_browse .\output\stm32f10x_can.crf --depend .\output\stm32f10x_can.d)
+F (..\Libraries\src\stm32f10x_can.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_can.o --omf_browse .\output\stm32f10x_can.crf --depend .\output\stm32f10x_can.d)
 I (..\Libraries\inc\stm32f10x_can.h)(0x4D783BB4)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -499,11 +499,11 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\Libraries\src\stm32f10x_adc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_adc.o --omf_browse .\output\stm32f10x_adc.crf --depend .\output\stm32f10x_adc.d)
+F (..\Libraries\src\stm32f10x_adc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_adc.o --omf_browse .\output\stm32f10x_adc.crf --depend .\output\stm32f10x_adc.d)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_can.h)(0x4D783BB4)
@@ -519,11 +519,11 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\Libraries\src\stm32f10x_dma.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_dma.o --omf_browse .\output\stm32f10x_dma.crf --depend .\output\stm32f10x_dma.d)
+F (..\Libraries\src\stm32f10x_dma.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_dma.o --omf_browse .\output\stm32f10x_dma.crf --depend .\output\stm32f10x_dma.d)
 I (..\Libraries\inc\stm32f10x_dma.h)(0x4D783BB4)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -539,11 +539,11 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\Libraries\src\stm32f10x_flash.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_flash.o --omf_browse .\output\stm32f10x_flash.crf --depend .\output\stm32f10x_flash.d)
+F (..\Libraries\src\stm32f10x_flash.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_flash.o --omf_browse .\output\stm32f10x_flash.crf --depend .\output\stm32f10x_flash.d)
 I (..\Libraries\inc\stm32f10x_flash.h)(0x4D783BB4)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -559,11 +559,11 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\Libraries\src\stm32f10x_iwdg.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_iwdg.o --omf_browse .\output\stm32f10x_iwdg.crf --depend .\output\stm32f10x_iwdg.d)
+F (..\Libraries\src\stm32f10x_iwdg.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_iwdg.o --omf_browse .\output\stm32f10x_iwdg.crf --depend .\output\stm32f10x_iwdg.d)
 I (..\Libraries\inc\stm32f10x_iwdg.h)(0x4D783BB4)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -579,11 +579,11 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\Libraries\src\stm32f10x_pwr.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_pwr.o --omf_browse .\output\stm32f10x_pwr.crf --depend .\output\stm32f10x_pwr.d)
+F (..\Libraries\src\stm32f10x_pwr.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_pwr.o --omf_browse .\output\stm32f10x_pwr.crf --depend .\output\stm32f10x_pwr.d)
 I (..\Libraries\inc\stm32f10x_pwr.h)(0x4D783BB4)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -599,11 +599,11 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\Libraries\src\stm32f10x_fsmc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_fsmc.o --omf_browse .\output\stm32f10x_fsmc.crf --depend .\output\stm32f10x_fsmc.d)
+F (..\Libraries\src\stm32f10x_fsmc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\stm32f10x_fsmc.o --omf_browse .\output\stm32f10x_fsmc.crf --depend .\output\stm32f10x_fsmc.d)
 I (..\Libraries\inc\stm32f10x_fsmc.h)(0x4D783BB4)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -619,12 +619,12 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\CMSIS\CM3\CoreSupport\core_cm3.c)(0x53C49046)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\core_cm3.o --omf_browse .\output\core_cm3.crf --depend .\output\core_cm3.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
-F (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.c)(0x4D783CB0)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\system_stm32f10x.o --omf_browse .\output\system_stm32f10x.crf --depend .\output\system_stm32f10x.d)
+F (..\CMSIS\CM3\CoreSupport\core_cm3.c)(0x53C49046)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\core_cm3.o --omf_browse .\output\core_cm3.crf --depend .\output\core_cm3.d)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
+F (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.c)(0x4D783CB0)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\USER -I..\USER\LCD -I..\USER\QRENCODE-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\output\system_stm32f10x.o --omf_browse .\output\system_stm32f10x.crf --depend .\output\system_stm32f10x.d)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x57622DE9)
 I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x57622DF1)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5ACCAE4F)
+I (E:\keil_V5win7\ARM\ARMCC\include\stdint.h)(0x5AEC571D)
 I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
 I (..\USER\stm32f10x_conf.h)(0x59159394)
 I (..\Libraries\inc\stm32f10x_adc.h)(0x4D783BB4)
@@ -641,4 +641,4 @@ I (..\Libraries\inc\stm32f10x_spi.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_tim.h)(0x4D783BB4)
 I (..\Libraries\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (..\Libraries\inc\misc.h)(0x4D783BB4)
-F (..\Startup\arm\startup_stm32f10x_hd.s)(0x4D783CDE)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Users\Administrator\Desktop\智能秤2017年5月18日\智能秤2017年5月18日\程序侯霄\Project\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include--pd "__UVISION_VERSION SETA 514" --pd "_RTE_ SETA 1" --pd "STM32F10X_HD SETA 1"--list .\listing\startup_stm32f10x_hd.lst --xref -o .\output\startup_stm32f10x_hd.o --depend .\output\startup_stm32f10x_hd.d)
+F (..\Startup\arm\startup_stm32f10x_hd.s)(0x4D783CDE)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I F:\BaiduYunDownload\秤2018.5.13\程序侯霄\Project\RTE-I E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include--pd "__UVISION_VERSION SETA 514" --pd "_RTE_ SETA 1" --pd "STM32F10X_HD SETA 1"--list .\listing\startup_stm32f10x_hd.lst --xref -o .\output\startup_stm32f10x_hd.o --depend .\output\startup_stm32f10x_hd.d)

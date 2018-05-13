@@ -2,7 +2,7 @@
 .\output\sim900a.o: ..\USER\sim900a.h
 .\output\sim900a.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
 .\output\sim900a.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
-.\output\sim900a.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\sim900a.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdint.h
 .\output\sim900a.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
 .\output\sim900a.o: ..\USER\stm32f10x_conf.h
 .\output\sim900a.o: ..\Libraries\inc\stm32f10x_adc.h
@@ -21,8 +21,8 @@
 .\output\sim900a.o: ..\Libraries\inc\stm32f10x_usart.h
 .\output\sim900a.o: ..\Libraries\inc\misc.h
 .\output\sim900a.o: ..\USER\tools.h
-.\output\sim900a.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-.\output\sim900a.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\sim900a.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\sim900a.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\string.h
 .\output\sim900a.o: ..\USER\peripheral.h
 .\output\sim900a.o: ..\USER\user.h
 .\output\sim900a.o: ..\USER\sys.h

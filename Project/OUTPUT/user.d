@@ -2,7 +2,7 @@
 .\output\user.o: ..\USER\user.h
 .\output\user.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
 .\output\user.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
-.\output\user.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\user.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdint.h
 .\output\user.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
 .\output\user.o: ..\USER\stm32f10x_conf.h
 .\output\user.o: ..\Libraries\inc\stm32f10x_adc.h
@@ -23,12 +23,12 @@
 .\output\user.o: ..\USER\sys.h
 .\output\user.o: ..\USER\delay.h
 .\output\user.o: ..\USER\tools.h
-.\output\user.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-.\output\user.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\user.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\user.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\string.h
 .\output\user.o: ..\USER\peripheral.h
 .\output\user.o: ..\USER\LCD\lcd.h
-.\output\user.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\user.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdlib.h
 .\output\user.o: ..\USER\QRENCODE\qr_encode.h
-.\output\user.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\output\user.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdbool.h
 .\output\user.o: ..\USER\HX711.h
 .\output\user.o: ..\USER\sim900a.h

@@ -40,6 +40,7 @@ uchar getWeightCnt = 0;
 char weightStr[10] = {0};
 char unitPrice[8] = {0};
 char totalMoney[8] = {0};
+char totalWeight[20]={0};
 char gprsSendBuff[50] = {0};
 uchar tradeLock = 0;
 uchar  ledFlickFlag = 0;
@@ -635,7 +636,7 @@ void KeyPadService(void)
             //    printf("D:结算\r\n");
 
             sprintf(totalMoney, "%.2f", atof(unitPrice) * (Weight_Shiwu / 1000.0) - 0.005);
-
+            sprintf(totalWeight, "%.2f", (Weight_Shiwu / 1000.0) - 0.005);
             tradeLock =
                 1; //本次交易结束，正处于显示页面，不能再改动修改数据，重新开始交易请按B键
 
@@ -650,7 +651,7 @@ void KeyPadService(void)
 
 
             gprsService = 1;
-            sprintf(gprsSendBuff, "get?jiage=%s&name=HouXiao\r\n", totalMoney);
+            sprintf(gprsSendBuff, "%s,%s,name\r\n", totalMoney,totalWeight);
             ledFlickFlag = 1;
 
 

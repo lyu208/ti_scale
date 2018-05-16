@@ -32,3 +32,4 @@
 .\output\user.o: E:\keil_V5win7\ARM\ARMCC\Bin\..\include\stdbool.h
 .\output\user.o: ..\USER\HX711.h
 .\output\user.o: ..\USER\sim900a.h
+.\output\user.o: ..\USER\stm32f10x_it.h

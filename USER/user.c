@@ -2,8 +2,8 @@
 /**
   ******************************************************************************
   * @file    user.c
-  * @author  侯霄
-  * @date    2016年5月5日
+  * @author  梦之创
+  * @date    2018年5月5日
   * @brief   系统功能实现在此文件内
   ******************************************************************************
   * @attention
@@ -11,7 +11,7 @@
   *
   *
   *
-  *                COPYRIGHT 2016 冲霄集团物联网设备研发中心
+  *                COPYRIGHT 2018 梦之创物联网设备研发中心
   ******************************************************************************
   */
 
@@ -24,7 +24,7 @@
 #include "qr_encode.h"
 #include "HX711.h"
 #include "sim900a.h"
-
+#include "stm32f10x_it.h"
 #define QRCODE_Y    240      //TFT二维码显示坐标y
 
 
@@ -52,10 +52,6 @@ uchar heartbeatService = 0;
 const uint8_t codetest[] = //微信名片，可以去百度上搜索二维码名片 查看
 {
     "https://QR.ALIPAY.COM/FKX032960FOJUCUJWUZM6C"
-//    "独睡无适处，静夜起相思。\r\n凭栏相望远，念我美娇妻。\r\n "
-//    "何当拥卿巫山雨云共佳期，却话待我有房手里存款几个亿！\r\n"
-//    "                    ——侯霄"
-//  "不要扫我"
 };
 
 void RCC_Config(void);
@@ -171,7 +167,7 @@ void  HeadFirst(void)
     USART1_Config();
     USART2_Config();
 
-//    printf("==制灵师-侯霄==\r\n授灵日期:2017年5月11日==\r\n");
+//    printf("==制灵师-==\r\n授灵日期==\r\n");
 //    printf("附体魂魄小鬼编号:%.2f\r\n", verison);
 
 //    SendStringBy_USART1("OK\r\n");
@@ -621,6 +617,7 @@ void KeyPadService(void)
 
             keyTouch = 0;
             tradeLock = 0;//交易锁打开
+				     LCD_ShowString(0, 160, 209, 24, 24, "No receive");//17*12=204
             break;
         case 12:
             //    printf("C:删除\r\n");
@@ -734,7 +731,8 @@ void  GPRS_Service()
                 USART_ClearFlag(USART2, USART_FLAG_TC);
                 USART_SendData(USART2, 0x1A);
                 while (USART_GetFlagStatus(USART2, USART_FLAG_TC) == RESET);
-
+                 USART2_IRQHandler();
+						      
                 gprsService = 0;
             }
             if (temp == 3) //连续三次都错误

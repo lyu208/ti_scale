@@ -21,15 +21,23 @@ Target DLL:      Segger\JL2CM3.dll V2.99.13.0
 Dialog DLL:      TCM.DLL V1.14.4.0
  
 <h2>Project:</h2>
-C:\Users\Smallqing\Desktop\ti_scale\Project\MdkPro.uvprojx
+C:\Users\Smallqing\Desktop\电子秤学习\ti_scale\Project\MdkPro.uvprojx
 Project File Date:  04/10/2018
 
 <h2>Output:</h2>
 Rebuild target 'MdkPro'
 compiling main.c...
 compiling stm32f10x_it.c...
+..\USER\stm32f10x_it.c(143): warning:  #223-D: function "FindChar" declared implicitly
+                           if (FindChar(GSM_recvBuff,
+..\USER\stm32f10x_it.c(146): warning:  #223-D: function "LCD_ShowString" declared implicitly
+                    LCD_ShowString(0, 160, 209, 24, 24, " OK  hello");//17*12=204
+..\USER\stm32f10x_it.c: 2 warnings, 0 errors
 compiling delay.c...
 compiling user.c...
+..\USER\user.c(734): warning:  #223-D: function "USART2_IRQHandler" declared implicitly
+                   USART2_IRQHandler();
+..\USER\user.c: 1 warning, 0 errors
 compiling peripheral.c...
 compiling tools.c...
 compiling lcd.c...
@@ -63,9 +71,9 @@ compiling core_cm3.c...
 compiling system_stm32f10x.c...
 assembling startup_stm32f10x_hd.s...
 linking...
-Program Size: Code=47794 RO-data=11794 RW-data=464 ZI-data=45432  
+Program Size: Code=47874 RO-data=11794 RW-data=464 ZI-data=45432  
 FromELF: creating hex file...
-".\OUTPUT\MdkPro.axf" - 0 Error(s), 0 Warning(s).
+".\OUTPUT\MdkPro.axf" - 0 Error(s), 3 Warning(s).
 
 <h2>Software Packages used:</h2>
 
@@ -76,7 +84,7 @@ Package Vendor: ARM
    * Component: CORE Version: 3.40.0
 
 <h2>Collection of Component include folders:</h2>
-  C:\Users\Smallqing\Desktop\ti_scale\Project\RTE
+  C:\Users\Smallqing\Desktop\电子秤学习\ti_scale\Project\RTE
   E:\keil_V5win7\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include
   E:\keil_V5win7\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include
 

@@ -140,10 +140,11 @@ void USART2_IRQHandler()
         GSM_recvBuff[recvDataCnt] = USART2->DR; // 252
 
         recvDataCnt++;
-        if (recvDataCnt >= 253)
-        {
-            recvDataCnt = 0;
-        }
+			   if (FindChar(GSM_recvBuff,
+                             "hello")) //在GSM_recvBuff[]数组里，查找有没有含有 ref这么个字符
+                {
+                  LCD_ShowString(0, 160, 209, 24, 24, " OK  hello");//17*12=204
+                }else return;
     }
 }
 
